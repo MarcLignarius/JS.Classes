@@ -10,7 +10,22 @@
   background-color: red;
 }*/
 
-.dark-background {
+/*.dark-background {
   background-color: #343a40;
   color: white;
+}*/
+
+#show-dark{
+  display:none;
+}
+
+#initial-light{
+  background-color: #f8f9fa;
+  color: #343a40;
+}
+
+
+#show-dark{
+    background-color: #343a40;
+    color: white;
 }
